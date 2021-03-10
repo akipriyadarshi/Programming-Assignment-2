@@ -1,4 +1,4 @@
-//A program to Find the last index and its value from a list
+//A program to Find the last index and its value from the list
 import scala.io.StdIn.{readInt, readLine}
 object ListMethod extends App {
   var count = -1
