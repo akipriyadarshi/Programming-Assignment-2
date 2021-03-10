@@ -1,6 +1,6 @@
 //program to print table of each element present in the list
 object ListTable extends App {
-  //method to print the table of each element present in list
+  //method to print the table of each element present in the list
   def printEach(int: Int):String = {
     for (i <- 1 to 10) println(int + "* " + i + " = " + int * i)
     print("\n\n")
